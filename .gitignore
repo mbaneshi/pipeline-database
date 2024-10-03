@@ -1,0 +1,9 @@
+# Ignore Docker-related files
+*.log
+*.pid
+*.sql
+*.db
+
+# Ignore the environment file (if you want to keep it secret)
+.env
+
